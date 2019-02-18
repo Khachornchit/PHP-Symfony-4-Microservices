@@ -14,17 +14,17 @@
     * 6.2 php bin/console doctrine:migrations:migrate
 
 ## Command List
-### Hello Test
+### Hello
     * php bin/console hello
     
-### CREATE User Example
+### CREATE User
     * php bin/console user-create
     
-### READ User Example
-    * php console.php user-read
+### READ User
+    * php bin/console user-read
 
-### UPDATE User Example
+### UPDATE User
     * php bin/console user-update
 
-### DELETE User Example
+### DELETE User
     * php bin/console user-delete
