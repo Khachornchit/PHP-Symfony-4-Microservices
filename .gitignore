@@ -7,3 +7,12 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+src/Commands/UserDeleteCommand.php
+src/Commands/UserReadCommand.php
+src/Commands/UserUpdateCommand.php
+
+src/Entity/User.php
+
+src/Manager/BaseManager.php
+src/Manager/UserManager.php
