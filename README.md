@@ -15,16 +15,16 @@
 
 ## Command List
 ### Hello
-    * php bin/console hello
+    * php bin/console pluto:hello
     
 ### CREATE User
-    * php bin/console user-create
+    * php bin/console pluto:user:create
     
 ### READ User
-    * php bin/console user-read
+    * php bin/console pluto:user:read
 
 ### UPDATE User
-    * php bin/console user-update
+    * php bin/console pluto:user:update
 
 ### DELETE User
-    * php bin/console user-delete
+    * php bin/console pluto:user:delete
